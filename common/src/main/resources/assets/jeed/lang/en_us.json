@@ -104,7 +104,6 @@
   "effect.environmental.panic.description": "Increases speed the lower the user health is.",
   "effect.environmental.serenity.description": "Koi fish stop hostile mobs spawns in a 32x32x8 radius. The serenity effect indicates if the player is in that radius.",
 
-
   "effect.dungeons_mobs.ensnared.description": "Affected entities are trapped in place.",
   "effect.dungeons_mobs.warped.description": "Inflicts lethal magic damage over time.",
 
@@ -179,16 +178,18 @@
 
   "effect.tetra.bleeding.description": "Inflicts damage over time.",
   "effect.tetra.earthbound.description": "The affected entity is slowed, take less knockback and cannot jump.",
-  "effect.tetra.exhausted.description": "<Unknown>",
-  "effect.tetra.howling.description": "Grants 12.5% chance to deflect projectile per effect level, slow movement speed by -5% and 2.5% chance to send incoming projectiles back where they came from.",
+  "effect.tetra.exhausted.description": "Reduces mining speed by 10%, and decreases attack speed and movement speed by 5% per level.",
+  "effect.tetra.howling.description": "Grants 12.5% chance to deflect projectile per effect level, slows movement speed by -5%, and 2.5% chance to send incoming projectiles back where they came from.",
+  "effect.tetra.pried.description": "Reduces armor points per level.",
   "effect.tetra.punctured.description": "Reduces armor by 10% per level.",
   "effect.tetra.severed.description": "Reduces maximum health and attack damage.",
+  "effect.tetra.small_absorb.description": "Less potent version of Absorption.",
   "effect.tetra.small_health.description": "Less potent version of Health Boost.",
   "effect.tetra.small_strength.description": "Less potent version of Strength.",
-  "effect.tetra.steeled.description": "<Unknown>",
+  "effect.tetra.steeled.description": "Increases armor points per level.",
   "effect.tetra.stun.description": "Stuns the target impeding its movement, making them deal no damage when attacking and giving them an infinite swing cooldown.",
 
-  "effect.twilightforest.frosted.description": "You are somewhere you are not supposed to be... yet.",
+  "effect.twilightforest.frosted.description": "Akin to Slowness, inflicting damage if target is afflicted for too long.",
 
   "effect.twist.afterburn.description": "Damages the user after the effect wears off.",
   "effect.twist.disintegration.description": "Damages the user when sprinting.",
