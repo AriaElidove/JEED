@@ -176,6 +176,7 @@
   "effect.seasonals.puppeteering.description": "Allows the player pick up and move mobs with lower health.",
   "effect.seasonals.thorn_resistance.description": "Lowers damage taken from spiky plants and thorns damage.",
 
+  "effect.tetra.bleeding": "Bleeding",
   "effect.tetra.bleeding.description": "Inflicts damage over time.",
   "effect.tetra.earthbound.description": "The affected entity is slowed, take less knockback and cannot jump.",
   "effect.tetra.exhausted.description": "Reduces mining speed by 10%, and decreases attack speed and movement speed by 5% per level.",
@@ -187,16 +188,19 @@
   "effect.tetra.small_health.description": "Less potent version of Health Boost.",
   "effect.tetra.small_strength.description": "Less potent version of Strength.",
   "effect.tetra.steeled.description": "Increases armor points per level.",
+  "effect.tetra.stun": "Stunned",
   "effect.tetra.stun.description": "Stuns the target impeding its movement, making them deal no damage when attacking and giving them an infinite swing cooldown.",
+  "effect.tetra.suspensed": "Suspensed",
+  "effect.tetra.suspensed.description": "Allows the target to float in the air, preventing downwards momentum without the use of crouching. This effect ends when the ground is touched.",
 
   "effect.twilightforest.frosted.description": "Akin to Slowness, inflicting damage if target is afflicted for too long.",
 
   "effect.twist.afterburn.description": "Damages the user after the effect wears off.",
   "effect.twist.disintegration.description": "Damages the user when sprinting.",
-  "effect.twist.hazy.description": "Not obtainable.",
+  "effect.twist.hazy.description": "Unobtainable.",
   "effect.twist.mold.description": "Causes the user's heart to rush when on a Charger's turf.",
   "effect.twist.outzimpled.description": "Stops the user from popping Zimples.",
-  "effect.twist.parasite.description": "Not obtainable.",
+  "effect.twist.parasite.description": "Unobtainable.",
 
   "effect.untitledduckmod.intimidation.description": "Makes illagers afraid of the target.",
 
@@ -212,6 +216,10 @@
   "effect.xreliquary.flight.description": "Allows creative flight.",
   "effect.xreliquary.pacification.description": "Makes the target not target and wander.",
   "effect.xreliquary.pacification": "Pacified",
+
+  "effect.voidscape.aura.description": "Inflicts voidic damage to mobs around the caster every second.",
+  "effect.voidscape.fortified.description": "Reduces incoming voidic damage by 75%. When reducing voidic damage, there is a 25% chance for this effect wear off before it's timer runs out.",
+  "effect.voidscape.ichor.description": "Doubles the voidic damage taken from any source.",
 
   "effect.cofh_core.wrenched.description": "Makes the user constantly turn 40° clockwise every second per second each effect level.",
   "effect.cofh_core.sundered.description": "Decreases the effectiveness of worn armor by 25% per level.",
